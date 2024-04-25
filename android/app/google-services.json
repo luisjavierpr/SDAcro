@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218593609733",
+    "project_id": "acrobatics-app",
+    "storage_bucket": "acrobatics-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218593609733:android:6c4e412b4add15252ab46c",
+        "android_client_info": {
+          "package_name": "com.example.chatui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uwBnIxS_FQZpgtBzQxCRrMek4fLl0bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

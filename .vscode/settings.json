@@ -1,0 +1,9 @@
+{
+    "problems.decorations.enabled": true,
+    "outline.problems.enabled": true,
+    "outline.problems.colors": true,
+    "outline.problems.badges": true,
+    "typescript.reportStyleChecksAsWarnings": true,
+    "cmake.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "disabled"
+}
